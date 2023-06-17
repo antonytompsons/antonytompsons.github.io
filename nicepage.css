@@ -41621,22 +41621,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 121px;
+  min-height: 143px;
 }
 
 .u-footer .u-text-1 {
-  margin: 42px 0 0;
-}
-
-.u-footer .u-text-2 {
-  margin: 0 0 35px;
+  margin: 50px 0;
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
-    width: auto;
-  }
-
-  .u-footer .u-text-2 {
     width: auto;
   }
 }
