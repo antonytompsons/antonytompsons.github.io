@@ -1,28 +1,28 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 92px;
+  min-height: 104px;
 }
 
 .u-section-1 .u-image-1 {
   width: 150px;
   height: 40px;
-  margin: 26px auto 0 0;
+  margin: 32px auto 0 0;
 }
 
 .u-section-1 .u-image-2 {
-  width: 115px;
-  height: 40px;
-  margin: -40px auto 26px 176px;
+  width: 150px;
+  height: 52px;
+  margin: -46px auto 26px 182px;
 } .u-section-2 {
   background-image: linear-gradient(#31295d, black);
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 863px;
+  min-height: 941px;
 }
 
 .u-section-2 .u-layout-wrap-1 {
   margin-top: 30px;
-  margin-bottom: 0;
+  margin-bottom: 40px;
 }
 
 .u-section-2 .u-layout-cell-1 {
@@ -139,7 +139,7 @@
   }
 
   .u-section-2 .u-layout-wrap-1 {
-    margin-bottom: 0;
+    margin-bottom: 40px;
   }
 
   .u-section-2 .u-container-layout-1 {
