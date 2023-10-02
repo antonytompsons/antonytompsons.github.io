@@ -155,20 +155,19 @@
 }
 
 .u-section-1 .u-group-2 {
-  width: 200px;
-  height: auto;
-  min-height: 55px;
+  width: 172px;
+  height: 50px;
   margin: 30px auto 0;
 }
 
 .u-section-1 .u-container-layout-3 {
-  padding: 15px;
+  padding: 10px;
 }
 
 .u-section-1 .u-text-21 {
   font-size: 1.125rem;
   font-weight: 700;
-  margin: 0 auto;
+  margin: 0 14px;
 }
 
 .u-section-1 .u-text-22 {
@@ -195,6 +194,7 @@
   }
 
   .u-section-1 .u-group-2 {
+    min-height: 55px;
     height: auto;
   }
 }
@@ -241,11 +241,6 @@
   }
 
   .u-section-1 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-1 .u-container-layout-3 {
     padding-left: 10px;
     padding-right: 10px;
   }
