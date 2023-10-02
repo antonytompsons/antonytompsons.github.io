@@ -42521,18 +42521,15 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 700;
   font-size: 1rem;
   text-transform: uppercase;
+  letter-spacing: normal;
 }
 
-.u-header .u-nav-3 {
+.u-header .u-nav-2 {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
-  }
-
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
   }
 }
 
