@@ -14,12 +14,11 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 289px;
+    min-height: 255px;
   }
 
   .u-section-1 .u-image-1 {
     height: 200px;
-    margin-bottom: 45px;
     width: 100%;
   }
 }.u-section-2 .u-sheet-1 {
@@ -286,7 +285,8 @@
   }
 
   .u-section-2 .u-layout-wrap-1 {
-    margin-bottom: 24px;
+    margin-top: 31px;
+    margin-bottom: 54px;
   }
 
   .u-section-2 .u-layout-cell-1 {

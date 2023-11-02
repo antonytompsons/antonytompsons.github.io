@@ -10,6 +10,17 @@
   height: 400px;
   margin-top: 45px;
   margin-bottom: 10px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 255px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 200px;
+    width: 100%;
+  }
 }.u-section-2 .u-sheet-1 {
   min-height: 2698px;
 }
@@ -318,6 +329,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 10478px;
+  }
+
   .u-section-2 .u-text-1 {
     font-size: 1.875rem;
   }

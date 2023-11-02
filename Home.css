@@ -238,15 +238,15 @@
 
 @media (max-width: 991px) {
   .u-section-3 .u-repeater-1 {
-    grid-template-columns: repeat(2, calc(50% - 10px));
     grid-auto-columns: calc(50% - 10px);
+    grid-template-columns: repeat(2, calc(50% - 10px));
   }
 }
 
 @media (max-width: 767px) {
   .u-section-3 .u-repeater-1 {
-    grid-template-columns: 100%;
     grid-auto-columns: calc(100% - 0px);
+    grid-template-columns: 100%;
   }
 }
 
