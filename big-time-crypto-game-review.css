@@ -14,11 +14,12 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 255px;
+    min-height: 265px;
   }
 
   .u-section-1 .u-image-1 {
     height: 200px;
+    margin-bottom: 20px;
     width: 100%;
   }
 }.u-section-2 .u-sheet-1 {
