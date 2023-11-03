@@ -43240,12 +43240,18 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+   .u-header {
+    min-height: 87px;
+  }
+
   .u-header .u-image-1 {
     margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-header .u-menu-1 {
-    margin-right: calc(((100% - 340px) / 2)  + -101px);
+    margin-top: -40px;
+    margin-right: calc(((100% - 340px) / 2)  + -16px);
+    margin-bottom: 17px;
   }
 }
 .u-footer .u-sheet-1 {
