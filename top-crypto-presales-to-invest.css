@@ -139,7 +139,7 @@
   margin-bottom: 0;
   height: auto;
   width: 100%;
-  background-image: url("images/WallStreetMemes.jpg");
+  background-image: url("/images/WallStreetMemes.jpg");
 }
 
 .u-section-2 .u-container-layout-4 {
@@ -171,7 +171,7 @@
   margin-top: 20px;
   margin-bottom: 0;
   height: auto;
-  background-image: url("images/LaunchpadXYZ.jpg");
+  background-image: url("/images/LaunchpadXYZ.jpg");
 }
 
 .u-section-2 .u-container-layout-5 {
@@ -202,7 +202,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/yPredict.jpg");
+  background-image: url("/images/yPredict.jpg");
   margin: 30px 0 0;
 }
 
@@ -232,7 +232,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/BitcoinBSC.jpg");
+  background-image: url("/images/BitcoinBSC.jpg");
   margin: 30px 0 0;
 }
 
@@ -266,7 +266,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/ScorpionCasino.jpg");
+  background-image: url("/images/ScorpionCasino.jpg");
   margin: 30px 0 0;
 }
 
@@ -298,7 +298,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/eTukTuk.jpg");
+  background-image: url("/images/eTukTuk.jpg");
   margin: 30px 0 0;
 }
 
@@ -330,7 +330,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/Chimpzee.jpg");
+  background-image: url("/images/Chimpzee.jpg");
   margin: 20px 0 0;
 }
 
@@ -360,7 +360,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/Anarchy.jpg");
+  background-image: url("/images/Anarchy.jpg");
   margin: 20px 0 0;
 }
 
@@ -392,7 +392,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/Pikamoon.jpg");
+  background-image: url("/images/Pikamoon.jpg");
   margin: 30px 0 0;
 }
 

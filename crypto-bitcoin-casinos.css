@@ -367,7 +367,7 @@
   margin-bottom: 0;
   height: auto;
   width: 100%;
-  background-image: url("images/Stake.jpg");
+  background-image: url("/images/Stake.jpg");
   background-position: 50% 50%;
 }
 
@@ -398,7 +398,7 @@
   margin-top: 20px;
   margin-bottom: 0;
   height: auto;
-  background-image: url("images/Cloudbet.jpg");
+  background-image: url("/images/Cloudbet.jpg");
   background-position: 50% 50%;
 }
 
@@ -428,7 +428,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/Metaspins.jpg");
+  background-image: url("/images/Metaspins.jpg");
   background-position: 50% 50%;
   margin: 20px 0 0;
 }
@@ -459,7 +459,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/Wild.jpg");
+  background-image: url("/images/Wild.jpg");
   background-position: 50% 50%;
   margin: 21px 0 0;
 }
@@ -490,7 +490,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/Empire.jpg");
+  background-image: url("/images/Empire.jpg");
   background-position: 50% 50%;
   margin: 20px 0 0;
 }
@@ -521,7 +521,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/Betpanda.jpg");
+  background-image: url("/images/Betpanda.jpg");
   background-position: 50% 50%;
   margin: 20px 0 0;
 }
@@ -552,7 +552,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/MegaDice.jpg");
+  background-image: url("/images/MegaDice.jpg");
   background-position: 50% 50%;
   margin: 20px 0 0;
 }
@@ -583,7 +583,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/Zoome.jpg");
+  background-image: url("/images/Zoome.jpg");
   background-position: 50% 50%;
   margin: 20px 0 0;
 }
@@ -614,7 +614,7 @@
   width: 800px;
   min-height: 400px;
   height: auto;
-  background-image: url("images/Jackbit.jpg");
+  background-image: url("/images/Jackbit.jpg");
   background-position: 50% 50%;
   margin: 20px 0 0;
 }
