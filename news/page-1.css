@@ -88,7 +88,7 @@
   grid-template-columns: repeat(3, calc(33.333333% - 6.666666666666667px));
   row-gap: 10px;
   column-gap: 10px;
-  min-height: 391px;
+  min-height: 381px;
 }
 
 .u-section-2 .u-image-1 {
@@ -443,7 +443,7 @@
   }
 
   .u-section-2 .u-repeater-1 {
-    min-height: 319px;
+    min-height: 310px;
   }
 
   .u-section-2 .u-group-2 {
@@ -525,7 +525,7 @@
 
   .u-section-2 .u-repeater-1 {
     grid-template-columns: repeat(2, calc(50% - 5px));
-    min-height: 538px;
+    min-height: 523px;
   }
 
   .u-section-2 .u-layout-cell-2 {
