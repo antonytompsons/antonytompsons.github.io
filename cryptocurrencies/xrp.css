@@ -51,13 +51,12 @@
 .u-section-1 .u-text-1 {
   font-size: 1.5rem;
   font-weight: 700;
-  width: 52px;
-  margin: -37px auto 0;
+  margin: -37px 160px 0 110px;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 1.5rem;
-  margin: -32px 195px 0 48px;
+  margin: -32px 219px 0 48px;
 }
 
 .u-section-1 .u-group-3 {
@@ -273,26 +272,32 @@
   }
 
   .u-section-1 .u-group-2 {
+    min-height: 62px;
     margin-right: initial;
     margin-left: initial;
     height: auto;
   }
 
+  .u-section-1 .u-container-layout-3 {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+
   .u-section-1 .u-image-1 {
-    margin-top: 10px;
+    margin-top: 16px;
     margin-right: 217px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
     margin-top: -38px;
-    margin-right: 71px;
-    margin-left: 132px;
+    margin-right: 95px;
+    margin-left: 108px;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-right: 129px;
+    margin-right: 155px;
   }
 
   .u-section-1 .u-group-3 {
@@ -386,22 +391,26 @@
     margin-left: initial;
   }
 
+  .u-section-1 .u-container-layout-3 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
   .u-section-1 .u-image-1 {
+    margin-top: 20px;
     margin-right: auto;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 1.125rem;
     margin-top: -33px;
-    margin-right: 490px;
-    margin-left: 122px;
+    margin-right: 513px;
+    margin-left: 99px;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 1.125rem;
-    margin-top: -23px;
-    margin-right: 550px;
-    margin-left: 49px;
+    margin: -23px 563px 4px 49px;
   }
 
   .u-section-1 .u-group-3 {
@@ -462,19 +471,20 @@
   }
 
   .u-section-1 .u-group-2 {
-    min-height: 59px;
+    min-height: 62px;
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 312px;
-    margin-left: 120px;
+    margin-top: -34px;
+    margin-right: 332px;
+    margin-left: 100px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: -24px;
-    margin-right: 367px;
+    margin-right: 384px;
+    margin-bottom: 0;
     margin-left: 48px;
   }
 
@@ -587,12 +597,12 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 105px;
-    margin-left: 125px;
+    margin-right: 126px;
+    margin-left: 104px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 167px;
+    margin-right: 181px;
     margin-left: 50px;
   }
 
